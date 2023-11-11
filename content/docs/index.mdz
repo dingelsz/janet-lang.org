@@ -57,7 +57,7 @@ POSIX and Windows respectively. To configure Janet, edit the header file
 
 To build and install Janet (and jpm) to a local or temporary directory tree instead of the default
 prefix of @code`/usr/local`, set the @code`PREFIX` environment variable while building and installing.
-You will like likely also want to update your path to point to @code`PREFIX/bin` to use
+You will also likely want to update your path to point to @code`PREFIX/bin` to use
 @code`janet`, @code`jpm`, and any scripts installed via @code`jpm`.
 
 @codeblock```
